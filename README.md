@@ -1,4 +1,4 @@
-# Reverse Shell_Python
+# Reverse Shell Python
 
 Script de Python Cliente-Servidor para establecer una conexión reversa entre ambas máquina (máquina víctima, máquina atacante)
 
