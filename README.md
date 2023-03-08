@@ -7,8 +7,9 @@ Necesitaremos un script de la máquina atacante, donde se va a pedir al usuario 
 
 Ahora el funcionamiento será el siguiente, donde primero ejecutaremos el código desde la máquina víctima para que permanezca en escucha a espera del comando enviado por la máquina atacante:
 
-![[Pasted image 20230308125116.png]]
+![imagen](https://user-images.githubusercontent.com/96432001/223709097-8ac5ff76-c14d-4b8c-a1c5-ae240577109f.png)
  
  Y ahora si ejecutamos el código desde la máquina atacante, ya podremos insertar el comando que queramos y recibirlo de vuelta:
  
-![[Pasted image 20230308125219.png]]
+![imagen](https://user-images.githubusercontent.com/96432001/223709031-eb2f57d2-1f78-4edb-af0c-c662dbc75959.png)
+
